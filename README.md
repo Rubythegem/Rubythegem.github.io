@@ -1,2 +1,2 @@
 # Rubythegem.github.io
-Practice static site
+Professional Website
