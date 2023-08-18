@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Ruby Erickson
+title: Ruby Erickson, Ethno/musicologist
 ---
-# Ruby Erickson 
+# Ruby Erickson, Ethno/musicologist 
 ![IMG_4828 copy](https://github.com/Rubythegem/Rubythegem.github.io/assets/142435187/749cc33c-7662-46e6-93a7-b50dd89efe70)
 
 ## Affiliation
