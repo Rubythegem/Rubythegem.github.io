@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Curriculum Vitae
+title: C.V. Highlights
 ---
-# Curriculum Vitae
+# C.V. Highlights
 ## Research Presentations
 **"Cape Verdean Feelings" : Vocal Affect and Diasporic Mobility in New England’s Cabo Verdean Musical Communities**   
 [Graduate Students in Music Conference](https://gsim.commons.gc.cuny.edu/), CUNY Grad Center, March 2023 
