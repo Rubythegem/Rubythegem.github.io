@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Ruby Erickson, Ethno/musicologist
+title: Welcome
 ---
-# Ruby Erickson, Ethno/musicologist 
+# Welcome
+Hello! My name is Ruby, and I am a rising scholar in Ethnomusicology. 
 ![IMG_4828 copy](https://github.com/Rubythegem/Rubythegem.github.io/assets/142435187/749cc33c-7662-46e6-93a7-b50dd89efe70)
 
 ## Affiliation
